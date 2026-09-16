@@ -1,0 +1,6 @@
+interface:
+  display_name: "Adventure A: Build a Site"
+  short_description: "Build a Site"
+  default_prompt: "Use $discovery-day-web-adventure to start Adventure A."
+policy:
+  allow_implicit_invocation: true

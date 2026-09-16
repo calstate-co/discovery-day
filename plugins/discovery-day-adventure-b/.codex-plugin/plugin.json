@@ -1,0 +1,22 @@
+{
+  "name": "discovery-day-adventure-b",
+  "version": "0.1.0+codex.local-20260916072657",
+  "description": "Guides Discovery Day attendees through building a recurring weekly preparation task.",
+  "author": {
+    "name": "ChatGPT Discovery Day Organizers"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Discovery Day Adventure B",
+    "shortDescription": "Build a recurring weekly preparation task.",
+    "longDescription": "A guided four-stage Adventure B experience that helps attendees prepare, implement, refine, and publish a personalized weekly planner.",
+    "developerName": "ChatGPT Discovery Day Organizers",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive"
+    ],
+    "defaultPrompt": [
+      "Guide me through Discovery Day Adventure B."
+    ]
+  }
+}
